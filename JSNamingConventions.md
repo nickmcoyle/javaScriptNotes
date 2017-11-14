@@ -2,7 +2,9 @@
 
 ### Definitions
 **camelCase:** capitalizes the first letter of each word excluding the first word and removes spaces between words
+
 **PascalCase:** capitalizes the first letter of each word including the first word and removes spaces between words
+
 **UPPERCASE:** all letters are capitalized and spaces between words are removed
 
 **Note:** Whether or not you use camelCase or PascalCase, all names should begin with a letter and be descriptive of their purpose.
