@@ -1,0 +1,9 @@
+#This document will cover the naming conventions for variables, classes, and functions in JavaScript
+
+camelCase: capitalizes the first letter of each word excluding the first word and removes spaces between words
+
+PascalCase: capitalizes the first letter of each word including the first word and removes spaces between words
+
+use camelCase:
+
+use PascalCase:
