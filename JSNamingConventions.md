@@ -20,8 +20,20 @@ var speedingTickets = 0; //very descriptive
 * function names *excluding constructor functions*
 
 ### PascalCase uses:
-*constructor functions
+* constructor functions
 
 ### UPPERCASE uses:
-*constants
-*global variables
+* constants
+* global variables
+
+### Proper use of spaces
+Always put spaces after operators	= + - / * 
+```javascript
+if(10 + 9 == 19) {
+	console.log("that's a great example");
+}
+```
+always include a space after commas
+```javascript
+var myArray = ["Chocolate", "Pistachio", "Banana"];
+```
