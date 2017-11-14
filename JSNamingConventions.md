@@ -26,11 +26,29 @@ var speedingTickets = 0; //very descriptive
 * constants
 * global variables
 
+### Correct formatting code blocks, functions, loops
+* always use 4 spaces when indenting, don't use tab because it creates different amounts of spaces in different programs
+* put opening brakets at the end of the first line after one space
+* put the closing bracket on its own line without a space
+* add a semicolon at the end of function expressions statements like the following
+```javascript
+var exampleFunction = function() {
+    return "this is a function expression, so you must include a semicolon after the bracket";
+};
+```
+
+* it is not neccessary to add a semicolon at the end of function declarations like the following
+```javascript
+function myFunc() {
+    return "no semicolon neccessary after the bracket";
+}
+```
+
 ### Proper use of spaces
-Always put spaces after operators	= + - / * 
+Always put spaces after operators `= + - / *` 
 ```javascript
 if(10 + 9 == 19) {
-	console.log("that's a great example");
+    console.log("that's a great example");
 }
 ```
 always include a space after commas
